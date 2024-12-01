@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ki_304.hutovych.lab4","l":"EquationsApp"},{"p":"ki_304.hutovych.lab4","l":"ExpressionCalculator"}];updateSearchResults();
