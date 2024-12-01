@@ -1,0 +1,15 @@
+Будинок House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=ki_304.hutovych.lab2.Logger@1218025c} сторено.
+Будинок House{roof=Roof{material='Черепиця', color='Червоний'}, door=Door{type='Розсувна', glassType='Просте', isOpen=false}, window=Window{type='Арочний', isOpen=false}, logger=ki_304.hutovych.lab2.Logger@3e3abc88} сторено.
+Вікно відкрите.
+Вікно закрите.
+Двері відкриті.
+Двері закриті.
+Стікло було змінено на З візерунками
+Тип вікна було змінено на Квадратний
+Дах було перемальовано в Зелений колір.
+Дах було полагоджено
+Дах було змінено. Новий матеріал Полікарбонат та колір Червоний
+Відбувся Огляд будинку: 
+ Дах - Roof{material='Полікарбонат', color='Червоний'} 
+ Двері - Door{type='Розсувна', glassType='З візерунками', isOpen=false} 
+ Вікна: - Window{type='Квадратний', isOpen=false}
